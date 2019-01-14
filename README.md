@@ -1,8 +1,6 @@
 # MatNavBarPaginationTest
 
-Demo how to use matNavBarPagination
-
-[![NPM](https://nodei.co/npm/mat-nav-bar-pagination.png?downloads=true&downloadRank=true)](https://nodei.co/npm/mat-nav-bar-pagination/)
+Demo how to use [matNavBarPagination](https://www.npmjs.com/package/mat-nav-bar-pagination)
 
 
 ![](animation.gif)
